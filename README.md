@@ -1,4 +1,4 @@
-# ElevatorFloorsConvertor
+# Elevator Floors Convertor
 
 US vs other countries elevator floor numbering convertor 
 
